@@ -1,0 +1,15 @@
+html, body {
+            height: 100%;
+        }
+
+        .maintenance-bg {
+            background-image: url('../images/College-Garden.jpg'); /* REPLACE with your background image URL */
+            background-size: cover;
+            background-position: center center;
+            background-repeat: no-repeat;
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Adds a subtle shadow */
+        }
